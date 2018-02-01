@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="organizaordemetas3.MetaSpec" tests="16" skipped="0" failures="0" errors="0" timestamp="2018-02-01T22:07:02" hostname="DESKTOP-JQV5GUG" time="0.094">
+  <properties/>
+  <testcase name="inicia en pendiente" classname="organizaordemetas3.MetaSpec" time="0.047"/>
+  <testcase name="PENDIENTE a EN_EJECUCION" classname="organizaordemetas3.MetaSpec" time="0.0"/>
+  <testcase name="EN_EJECUCION a FINALIZADA" classname="organizaordemetas3.MetaSpec" time="0.0"/>
+  <testcase name="PENDIENTE a CANCELADA" classname="organizaordemetas3.MetaSpec" time="0.0"/>
+  <testcase name="EN_EJECUCION a CANCELADA" classname="organizaordemetas3.MetaSpec" time="0.0"/>
+  <testcase name="FINALIZADA a CANCELADA" classname="organizaordemetas3.MetaSpec" time="0.0"/>
+  <testcase name="cambiar estado de pendiente a finalizada con cambio manual da error" classname="organizaordemetas3.MetaSpec" time="0.0"/>
+  <testcase name="cambiar estado de pendiente a en ejecucion con cambio manual no da error" classname="organizaordemetas3.MetaSpec" time="0.015"/>
+  <testcase name="tira error el intentar iniciar sin terminar los anteriores" classname="organizaordemetas3.MetaSpec" time="0.0"/>
+  <testcase name="no tira error el intentar iniciar habiendo cancelado los anteriores" classname="organizaordemetas3.MetaSpec" time="0.0"/>
+  <testcase name="no tira error el intentar iniciar habiendo Terminado los anteriores" classname="organizaordemetas3.MetaSpec" time="0.0"/>
+  <testcase name="no tira error el intentar iniciar no hbiendo terminado los Opcionales" classname="organizaordemetas3.MetaSpec" time="0.0"/>
+  <testcase name="tira error el intentar terminar no hbiendo terminado los Opcionales" classname="organizaordemetas3.MetaSpec" time="0.0"/>
+  <testcase name="no tira error el intentar terminar hbiendo terminado los Opcionales" classname="organizaordemetas3.MetaSpec" time="0.016"/>
+  <testcase name="Si se termina todas las SubMeta, se termina" classname="organizaordemetas3.MetaSpec" time="0.0"/>
+  <testcase name="Si no se termina todas las SubMeta, no se termina" classname="organizaordemetas3.MetaSpec" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

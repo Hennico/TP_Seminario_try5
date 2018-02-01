@@ -1,0 +1,6 @@
+#Thu, 01 Feb 2018 16:20:26 -0300
+
+info.app.version=0.1
+info.app.name=TP_Seminario_try5
+grails.env=test
+info.app.grailsVersion=3.3.0.RC1

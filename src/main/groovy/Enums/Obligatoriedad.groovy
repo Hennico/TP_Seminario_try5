@@ -1,4 +1,4 @@
-package organizadordemetas
+package organizaordemetas3
 
 public enum Obligatoriedad {
 	NECESARIO ("Necesario"),

@@ -1,11 +1,11 @@
 package organizaordemetas3
 
-package private class CambioDeEstado {
+public class CambioDeEstado {
 
-	cambiarEstado(Meta meta, Estado nuevoEstado){
+	void cambiarEstado(Meta meta, Estado nuevoEstado){
 	}
 	
-	cambiarEstado(Meta meta){
+	void cambiarEstado(Meta meta){
 	}
 	
     static constraints = {

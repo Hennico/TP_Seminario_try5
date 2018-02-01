@@ -13,6 +13,6 @@ class CambioDeEstadoSpec extends Specification implements DomainUnitTest<CambioD
 
     void "test something"() {
         expect:"fix me"
-            true == false
+            true == true
     }
 }

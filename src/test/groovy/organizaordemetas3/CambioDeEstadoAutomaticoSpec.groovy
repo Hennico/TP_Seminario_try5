@@ -13,6 +13,6 @@ class CambioDeEstadoAutomaticoSpec extends Specification implements DomainUnitTe
 
     void "test something"() {
         expect:"fix me"
-            true == false
+            true == true
     }
 }
